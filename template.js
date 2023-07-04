@@ -1,7 +1,7 @@
 /*** act as a root page  ***/
-// a js function that retuns a simple js function 
+// a js function that return a simple js function
 export default () => {
-    return `
+  return `
         <!DOCTYPE html>
         <index>
         <head lang="en">
@@ -11,5 +11,5 @@ export default () => {
         <div id="root">Backend Skeleton</div>
         </body>
         </index>    
-    `
-}
+    `;
+};
