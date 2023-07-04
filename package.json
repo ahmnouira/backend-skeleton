@@ -1,7 +1,7 @@
 {
   "name": "backend-skeleton",
   "version": "1.0.0",
-  "description": "Node.js starter",
+  "description": "This is a starter kit for **MERN Stack** application.",
   "main": "server/server.js",
   "scripts": {
     "start": "nodemon server.js",
@@ -15,7 +15,8 @@
     "Skeleton",
     "MongoDB",
     "Express",
-    "Node.js"
+    "Node.js",
+    "MERN Stack"
   ],
   "author": "Ahmed Nouira",
   "license": "MIT",
